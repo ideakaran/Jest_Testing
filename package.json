@@ -1,0 +1,28 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "Jest test samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kppant/Jest_Testing.git"
+  },
+  "keywords": [
+    "jest",
+    "testing",
+    "javascript",
+    "testing"
+  ],
+  "author": "KP Pant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kppant/Jest_Testing/issues"
+  },
+  "homepage": "https://github.com/kppant/Jest_Testing#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
